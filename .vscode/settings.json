@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "/Users/taehyungkim/.local/share/virtualenvs/airbnb-clone-xmYu-4EB/bin/python",
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "editor.formatOnSave": true,
+  "python.linting.flake8Args": ["--max-line-length=88"],
+  "python.linting.pylintEnabled": false,
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": "/Users/taehyungkim/.local/share/virtualenvs/airbnb-clone-xmYu-4EB/bin/black",
+  "prettier.disableLanguages": ["django-html"]
+}
