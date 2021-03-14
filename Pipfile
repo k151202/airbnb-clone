@@ -11,10 +11,12 @@ django-countries = "*"
 django-seed = "*"
 django-dotenv = "*"
 requests = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 black = "*"
 awsebcli = "*"
+pipenv-to-requirements = "*"
 
 [requires]
 python_version = "3.8"
