@@ -24,7 +24,7 @@ SECRET_KEY = "=59gr2%1#gxjh!w#qdv+6hh&)3pdpya8((co@f3s5%7*6ffd6x"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(os.environ.get("DEBUG"))
 
-ALLOWED_HOSTS = ["airbnb-clone.eba-v8qvpj2y.ap-northeast-2.elasticbeanstalk.com"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
